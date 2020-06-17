@@ -1,15 +1,22 @@
 ### Date created
-Include the date you created this project and README file.
+Created June 16th, 2020
 
 ### Project Title
-Replace the Project Title
+BikeShare Statistics
 
 ### Description
-Describe what your project is about and what it does
+This project consumes and displays statistics on bike sharing customers and usage. 
 
 ### Files used
-Include the files used
+bikeshare.py
+readme.txt
+<city data>.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+I used several resources beyond the training to complete this project. Resources are used for reference only, and no code was copied from any of them. 
+
+Python3 official documentation
+pandas library official documentation
+StackOverflow.com
+My own past projects
 
