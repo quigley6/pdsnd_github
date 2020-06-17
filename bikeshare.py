@@ -1,5 +1,4 @@
 import cmd, datetime, sys, os, re
-import pdb
 import pandas as pd
 
 CITIES = [
