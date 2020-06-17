@@ -8,9 +8,9 @@ BikeShare Statistics
 This project consumes and displays statistics on bike sharing customers and usage. 
 
 ### Files used
-bikeshare.py
-readme.txt
-<city data>.csv
+bikeshare.py<br>
+readme.txt<br>
+<city data>.csv<br>
 
 ### Credits
 I used several resources beyond the training to complete this project. Resources are used for reference only, and no code was copied from any of them. 
