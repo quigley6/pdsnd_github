@@ -50,7 +50,7 @@ WEEKDAYS = {
 }
 
 class BikeShare(cmd.Cmd):
-    intro = '\n{0}\nWelcome! Let\'s explore some bike share data!\n\nType \'help\' or double-tab to list commands\n{0}\n'.format('-' * 50)
+    intro = '\n{0}\nWelcome! Let\'s explore some bike share data!\n\nType \'help\' or <tab><tab> to list commands\n{0}\n'.format('-' * 50)
     prompt = '<select city with \'city\' command>$ '
 
     city_data = None
