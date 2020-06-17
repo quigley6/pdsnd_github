@@ -10,7 +10,7 @@ This project consumes and displays statistics on bike sharing customers and usag
 ### Files used
 bikeshare.py<br>
 readme.txt<br>
-<city data>.csv<br>
+some_city_data.csv<br>
 
 ### Credits
 I used several resources beyond the training to complete this project. Resources are used for reference only, and no code was copied from any of them. 
